@@ -1,0 +1,15 @@
+C:\Users\Abdul\source\repos\Adnan\LibrarySystem\Library.Service\bin\Debug\net8.0\Library.Service.deps.json
+C:\Users\Abdul\source\repos\Adnan\LibrarySystem\Library.Service\bin\Debug\net8.0\Library.Service.dll
+C:\Users\Abdul\source\repos\Adnan\LibrarySystem\Library.Service\bin\Debug\net8.0\Library.Service.pdb
+C:\Users\Abdul\source\repos\Adnan\LibrarySystem\Library.Service\bin\Debug\net8.0\Library.Model.dll
+C:\Users\Abdul\source\repos\Adnan\LibrarySystem\Library.Service\bin\Debug\net8.0\Library.Model.pdb
+C:\Users\Abdul\source\repos\Adnan\LibrarySystem\Library.Service\obj\Debug\net8.0\Library.Service.csproj.AssemblyReference.cache
+C:\Users\Abdul\source\repos\Adnan\LibrarySystem\Library.Service\obj\Debug\net8.0\Library.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdul\source\repos\Adnan\LibrarySystem\Library.Service\obj\Debug\net8.0\Library.Service.AssemblyInfoInputs.cache
+C:\Users\Abdul\source\repos\Adnan\LibrarySystem\Library.Service\obj\Debug\net8.0\Library.Service.AssemblyInfo.cs
+C:\Users\Abdul\source\repos\Adnan\LibrarySystem\Library.Service\obj\Debug\net8.0\Library.Service.csproj.CoreCompileInputs.cache
+C:\Users\Abdul\source\repos\Adnan\LibrarySystem\Library.Service\obj\Debug\net8.0\Library..8E6562CF.Up2Date
+C:\Users\Abdul\source\repos\Adnan\LibrarySystem\Library.Service\obj\Debug\net8.0\Library.Service.dll
+C:\Users\Abdul\source\repos\Adnan\LibrarySystem\Library.Service\obj\Debug\net8.0\refint\Library.Service.dll
+C:\Users\Abdul\source\repos\Adnan\LibrarySystem\Library.Service\obj\Debug\net8.0\Library.Service.pdb
+C:\Users\Abdul\source\repos\Adnan\LibrarySystem\Library.Service\obj\Debug\net8.0\ref\Library.Service.dll

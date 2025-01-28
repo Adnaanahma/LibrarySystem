@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Abdul\\source\\repos\\Adnan\\LibrarySystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82FD3072-98A5-4B87-92B8-60A0CD6919A0}|Library.Api\\Library.Api.csproj|c:\\users\\abdul\\source\\repos\\adnan\\librarysystem\\library.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{82FD3072-98A5-4B87-92B8-60A0CD6919A0}|Library.Api\\Library.Api.csproj|solutionrelative:library.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FD3072-98A5-4B87-92B8-60A0CD6919A0}|Library.Api\\Library.Api.csproj|c:\\users\\abdul\\source\\repos\\adnan\\librarysystem\\library.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82FD3072-98A5-4B87-92B8-60A0CD6919A0}|Library.Api\\Library.Api.csproj|solutionrelative:library.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FD3072-98A5-4B87-92B8-60A0CD6919A0}|Library.Api\\Library.Api.csproj|c:\\users\\abdul\\source\\repos\\adnan\\librarysystem\\library.api\\library.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{82FD3072-98A5-4B87-92B8-60A0CD6919A0}|Library.Api\\Library.Api.csproj|solutionrelative:library.api\\library.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FD3072-98A5-4B87-92B8-60A0CD6919A0}|Library.Api\\Library.Api.csproj|c:\\users\\abdul\\source\\repos\\adnan\\librarysystem\\library.api\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82FD3072-98A5-4B87-92B8-60A0CD6919A0}|Library.Api\\Library.Api.csproj|solutionrelative:library.api\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694E5057-BDCE-4306-B68D-720631FB7AD2}|Library.Service\\Library.Service.csproj|c:\\users\\abdul\\source\\repos\\adnan\\librarysystem\\library.service\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694E5057-BDCE-4306-B68D-720631FB7AD2}|Library.Service\\Library.Service.csproj|solutionrelative:library.service\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FD3072-98A5-4B87-92B8-60A0CD6919A0}|Library.Api\\Library.Api.csproj|c:\\users\\abdul\\source\\repos\\adnan\\librarysystem\\library.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{82FD3072-98A5-4B87-92B8-60A0CD6919A0}|Library.Api\\Library.Api.csproj|solutionrelative:library.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE16D1DA-9C05-48D9-9AE5-21BE4D653AA0}|Library.Model\\Library.Model.csproj|c:\\users\\abdul\\source\\repos\\adnan\\librarysystem\\library.model\\viewmodel\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE16D1DA-9C05-48D9-9AE5-21BE4D653AA0}|Library.Model\\Library.Model.csproj|solutionrelative:library.model\\viewmodel\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE16D1DA-9C05-48D9-9AE5-21BE4D653AA0}|Library.Model\\Library.Model.csproj|c:\\users\\abdul\\source\\repos\\adnan\\librarysystem\\library.model\\viewmodel\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE16D1DA-9C05-48D9-9AE5-21BE4D653AA0}|Library.Model\\Library.Model.csproj|solutionrelative:library.model\\viewmodel\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694E5057-BDCE-4306-B68D-720631FB7AD2}|Library.Service\\Library.Service.csproj|c:\\users\\abdul\\source\\repos\\adnan\\librarysystem\\library.service\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694E5057-BDCE-4306-B68D-720631FB7AD2}|Library.Service\\Library.Service.csproj|solutionrelative:library.service\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Abdul\\source\\repos\\Adnan\\LibrarySystem\\Library.Api\\Dockerfile",
+              "RelativeDocumentMoniker": "Library.Api\\Dockerfile",
+              "ToolTip": "C:\\Users\\Abdul\\source\\repos\\Adnan\\LibrarySystem\\Library.Api\\Dockerfile",
+              "RelativeToolTip": "Library.Api\\Dockerfile",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAA4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-28T16:09:09.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Abdul\\source\\repos\\Adnan\\LibrarySystem\\Library.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Library.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Abdul\\source\\repos\\Adnan\\LibrarySystem\\Library.Api\\appsettings.json",
+              "RelativeToolTip": "Library.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-27T12:39:39.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Abdul\\source\\repos\\Adnan\\LibrarySystem\\Library.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Library.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Abdul\\source\\repos\\Adnan\\LibrarySystem\\Library.Api\\Program.cs",
+              "RelativeToolTip": "Library.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T12:32:27.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Library.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\Abdul\\source\\repos\\Adnan\\LibrarySystem\\Library.Api\\Library.Api.csproj",
+              "RelativeDocumentMoniker": "Library.Api\\Library.Api.csproj",
+              "ToolTip": "C:\\Users\\Abdul\\source\\repos\\Adnan\\LibrarySystem\\Library.Api\\Library.Api.csproj",
+              "RelativeToolTip": "Library.Api\\Library.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-27T12:27:35.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\Abdul\\source\\repos\\Adnan\\LibrarySystem\\Library.Api\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Library.Api\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\Abdul\\source\\repos\\Adnan\\LibrarySystem\\Library.Api\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Library.Api\\Controllers\\BookController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T11:57:13.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Abdul\\source\\repos\\Adnan\\LibrarySystem\\Library.Model\\ViewModel\\BaseResponse.cs",
+              "RelativeDocumentMoniker": "Library.Model\\ViewModel\\BaseResponse.cs",
+              "ToolTip": "C:\\Users\\Abdul\\source\\repos\\Adnan\\LibrarySystem\\Library.Model\\ViewModel\\BaseResponse.cs",
+              "RelativeToolTip": "Library.Model\\ViewModel\\BaseResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T11:24:41.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Abdul\\source\\repos\\Adnan\\LibrarySystem\\Library.Model\\ViewModel\\Book.cs",
+              "RelativeDocumentMoniker": "Library.Model\\ViewModel\\Book.cs",
+              "ToolTip": "C:\\Users\\Abdul\\source\\repos\\Adnan\\LibrarySystem\\Library.Model\\ViewModel\\Book.cs",
+              "RelativeToolTip": "Library.Model\\ViewModel\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T10:11:55.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\Abdul\\source\\repos\\Adnan\\LibrarySystem\\Library.Service\\Interfaces\\IBookService.cs",
+              "RelativeDocumentMoniker": "Library.Service\\Interfaces\\IBookService.cs",
+              "ToolTip": "C:\\Users\\Abdul\\source\\repos\\Adnan\\LibrarySystem\\Library.Service\\Interfaces\\IBookService.cs",
+              "RelativeToolTip": "Library.Service\\Interfaces\\IBookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T10:10:31.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\Abdul\\source\\repos\\Adnan\\LibrarySystem\\Library.Service\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "Library.Service\\Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\Abdul\\source\\repos\\Adnan\\LibrarySystem\\Library.Service\\Services\\BookService.cs",
+              "RelativeToolTip": "Library.Service\\Services\\BookService.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAkwMMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T10:09:51.707Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
