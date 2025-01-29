@@ -78,8 +78,7 @@
               "RelativeToolTip": "Library.Api\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-27T12:39:39.049Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-27T12:39:39.049Z"
             },
             {
               "$type": "Document",
@@ -89,7 +88,7 @@
               "RelativeDocumentMoniker": "Library.Api\\Program.cs",
               "ToolTip": "C:\\Users\\Abdul\\source\\repos\\Adnan\\LibrarySystem\\Library.Api\\Program.cs",
               "RelativeToolTip": "Library.Api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-27T12:32:27.603Z",
               "EditorCaption": ""
@@ -164,8 +163,7 @@
               "RelativeToolTip": "Library.Service\\Services\\BookService.cs",
               "ViewState": "AgIAAHYAAAAAAAAAAAAAAIcAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T10:09:51.707Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-27T10:09:51.707Z"
             }
           ]
         }
