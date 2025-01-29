@@ -11,6 +11,12 @@ public class Program
     {
         var builder = WebApplication.CreateBuilder(args);
 
+        builder.WebHost.ConfigureKestrel(serverOptions =>
+        {
+            serverOptions.ListenAnyIP(int.Parse(Environment.GetEnvironmentVariable("PORT") ?? "80")); // Listen on PORT or 80
+        });
+
+
         // Add services to the container.
 
         builder.Services.AddControllers();

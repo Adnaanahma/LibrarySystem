@@ -38,3 +38,4 @@ C:\Users\Abdul\source\repos\Adnan\LibrarySystem\Library.Api\obj\Debug\net8.0\Lib
 C:\Users\Abdul\source\repos\Adnan\LibrarySystem\Library.Api\obj\Debug\net8.0\Library.Api.pdb
 C:\Users\Abdul\source\repos\Adnan\LibrarySystem\Library.Api\obj\Debug\net8.0\Library.Api.genruntimeconfig.cache
 C:\Users\Abdul\source\repos\Adnan\LibrarySystem\Library.Api\obj\Debug\net8.0\ref\Library.Api.dll
+C:\Users\Abdul\source\repos\Adnan\LibrarySystem\Library.Api\obj\Debug\net8.0\Library.Api.sourcelink.json
