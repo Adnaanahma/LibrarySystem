@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Abdul\\source\\repos\\Adnan\\LibrarySystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{82FD3072-98A5-4B87-92B8-60A0CD6919A0}|Library.Api\\Library.Api.csproj|c:\\users\\abdul\\source\\repos\\adnan\\librarysystem\\library.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{82FD3072-98A5-4B87-92B8-60A0CD6919A0}|Library.Api\\Library.Api.csproj|solutionrelative:library.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{82FD3072-98A5-4B87-92B8-60A0CD6919A0}|Library.Api\\Library.Api.csproj|c:\\users\\abdul\\source\\repos\\adnan\\librarysystem\\library.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{82FD3072-98A5-4B87-92B8-60A0CD6919A0}|Library.Api\\Library.Api.csproj|solutionrelative:library.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{82FD3072-98A5-4B87-92B8-60A0CD6919A0}|Library.Api\\Library.Api.csproj|c:\\users\\abdul\\source\\repos\\adnan\\librarysystem\\library.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{82FD3072-98A5-4B87-92B8-60A0CD6919A0}|Library.Api\\Library.Api.csproj|solutionrelative:library.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82FD3072-98A5-4B87-92B8-60A0CD6919A0}|Library.Api\\Library.Api.csproj|c:\\users\\abdul\\source\\repos\\adnan\\librarysystem\\library.api\\library.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{82FD3072-98A5-4B87-92B8-60A0CD6919A0}|Library.Api\\Library.Api.csproj|solutionrelative:library.api\\library.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{82FD3072-98A5-4B87-92B8-60A0CD6919A0}|Library.Api\\Library.Api.csproj|c:\\users\\abdul\\source\\repos\\adnan\\librarysystem\\library.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{82FD3072-98A5-4B87-92B8-60A0CD6919A0}|Library.Api\\Library.Api.csproj|solutionrelative:library.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{82FD3072-98A5-4B87-92B8-60A0CD6919A0}|Library.Api\\Library.Api.csproj|c:\\users\\abdul\\source\\repos\\adnan\\librarysystem\\library.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82FD3072-98A5-4B87-92B8-60A0CD6919A0}|Library.Api\\Library.Api.csproj|solutionrelative:library.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FD3072-98A5-4B87-92B8-60A0CD6919A0}|Library.Api\\Library.Api.csproj|c:\\users\\abdul\\source\\repos\\adnan\\librarysystem\\library.api\\library.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{82FD3072-98A5-4B87-92B8-60A0CD6919A0}|Library.Api\\Library.Api.csproj|solutionrelative:library.api\\library.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{694E5057-BDCE-4306-B68D-720631FB7AD2}|Library.Service\\Library.Service.csproj|c:\\users\\abdul\\source\\repos\\adnan\\librarysystem\\library.service\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,21 +50,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Abdul\\source\\repos\\Adnan\\LibrarySystem\\Library.Api\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Library.Api\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Abdul\\source\\repos\\Adnan\\LibrarySystem\\Library.Api\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Library.Api\\Properties\\launchSettings.json",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACIAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-29T19:03:55.876Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -88,12 +79,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Abdul\\source\\repos\\Adnan\\LibrarySystem\\Library.Api\\Dockerfile",
+              "RelativeDocumentMoniker": "Library.Api\\Dockerfile",
+              "ToolTip": "C:\\Users\\Abdul\\source\\repos\\Adnan\\LibrarySystem\\Library.Api\\Dockerfile",
+              "RelativeToolTip": "Library.Api\\Dockerfile",
+              "ViewState": "AgIAAAgAAAAADdsfS4QrwBcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-29T20:09:37.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Abdul\\source\\repos\\Adnan\\LibrarySystem\\Library.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Library.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Abdul\\source\\repos\\Adnan\\LibrarySystem\\Library.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Library.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-29T19:03:55.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Abdul\\source\\repos\\Adnan\\LibrarySystem\\Library.Api\\appsettings.json",
               "RelativeDocumentMoniker": "Library.Api\\appsettings.json",
               "ToolTip": "C:\\Users\\Abdul\\source\\repos\\Adnan\\LibrarySystem\\Library.Api\\appsettings.json",
               "RelativeToolTip": "Library.Api\\appsettings.json",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-01-27T12:39:39.049Z",
               "EditorCaption": ""
@@ -106,13 +123,13 @@
               "RelativeDocumentMoniker": "Library.Api\\Program.cs",
               "ToolTip": "C:\\Users\\Abdul\\source\\repos\\Adnan\\LibrarySystem\\Library.Api\\Program.cs",
               "RelativeToolTip": "Library.Api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-27T12:32:27.603Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Library.Api.csproj",
               "DocumentMoniker": "C:\\Users\\Abdul\\source\\repos\\Adnan\\LibrarySystem\\Library.Api\\Library.Api.csproj",
               "RelativeDocumentMoniker": "Library.Api\\Library.Api.csproj",
@@ -124,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "BookController.cs",
               "DocumentMoniker": "C:\\Users\\Abdul\\source\\repos\\Adnan\\LibrarySystem\\Library.Api\\Controllers\\BookController.cs",
               "RelativeDocumentMoniker": "Library.Api\\Controllers\\BookController.cs",
@@ -136,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "BaseResponse.cs",
               "DocumentMoniker": "C:\\Users\\Abdul\\source\\repos\\Adnan\\LibrarySystem\\Library.Model\\ViewModel\\BaseResponse.cs",
               "RelativeDocumentMoniker": "Library.Model\\ViewModel\\BaseResponse.cs",
@@ -148,7 +165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\Abdul\\source\\repos\\Adnan\\LibrarySystem\\Library.Model\\ViewModel\\Book.cs",
               "RelativeDocumentMoniker": "Library.Model\\ViewModel\\Book.cs",
@@ -160,7 +177,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "IBookService.cs",
               "DocumentMoniker": "C:\\Users\\Abdul\\source\\repos\\Adnan\\LibrarySystem\\Library.Service\\Interfaces\\IBookService.cs",
               "RelativeDocumentMoniker": "Library.Service\\Interfaces\\IBookService.cs",
@@ -172,7 +189,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "BookService.cs",
               "DocumentMoniker": "C:\\Users\\Abdul\\source\\repos\\Adnan\\LibrarySystem\\Library.Service\\Services\\BookService.cs",
               "RelativeDocumentMoniker": "Library.Service\\Services\\BookService.cs",

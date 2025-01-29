@@ -1,6 +1,0 @@
-services:
-  library.api:
-    image: ${DOCKER_REGISTRY-}libraryapi
-    build:
-      context: .
-      dockerfile: Library.Api/Dockerfile
