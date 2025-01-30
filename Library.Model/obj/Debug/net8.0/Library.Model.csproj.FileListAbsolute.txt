@@ -9,3 +9,4 @@ C:\Users\Abdul\source\repos\Adnan\LibrarySystem\Library.Model\obj\Debug\net8.0\L
 C:\Users\Abdul\source\repos\Adnan\LibrarySystem\Library.Model\obj\Debug\net8.0\refint\Library.Model.dll
 C:\Users\Abdul\source\repos\Adnan\LibrarySystem\Library.Model\obj\Debug\net8.0\Library.Model.pdb
 C:\Users\Abdul\source\repos\Adnan\LibrarySystem\Library.Model\obj\Debug\net8.0\ref\Library.Model.dll
+C:\Users\Abdul\source\repos\Adnan\LibrarySystem\Library.Model\obj\Debug\net8.0\Library.Model.sourcelink.json

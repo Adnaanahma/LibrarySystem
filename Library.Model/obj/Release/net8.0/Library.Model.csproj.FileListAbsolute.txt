@@ -1,0 +1,12 @@
+C:\Users\Abdul\source\repos\Adnan\LibrarySystem\Library.Model\bin\Release\net8.0\Library.Model.deps.json
+C:\Users\Abdul\source\repos\Adnan\LibrarySystem\Library.Model\bin\Release\net8.0\Library.Model.dll
+C:\Users\Abdul\source\repos\Adnan\LibrarySystem\Library.Model\bin\Release\net8.0\Library.Model.pdb
+C:\Users\Abdul\source\repos\Adnan\LibrarySystem\Library.Model\obj\Release\net8.0\Library.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdul\source\repos\Adnan\LibrarySystem\Library.Model\obj\Release\net8.0\Library.Model.AssemblyInfoInputs.cache
+C:\Users\Abdul\source\repos\Adnan\LibrarySystem\Library.Model\obj\Release\net8.0\Library.Model.AssemblyInfo.cs
+C:\Users\Abdul\source\repos\Adnan\LibrarySystem\Library.Model\obj\Release\net8.0\Library.Model.csproj.CoreCompileInputs.cache
+C:\Users\Abdul\source\repos\Adnan\LibrarySystem\Library.Model\obj\Release\net8.0\Library.Model.sourcelink.json
+C:\Users\Abdul\source\repos\Adnan\LibrarySystem\Library.Model\obj\Release\net8.0\Library.Model.dll
+C:\Users\Abdul\source\repos\Adnan\LibrarySystem\Library.Model\obj\Release\net8.0\refint\Library.Model.dll
+C:\Users\Abdul\source\repos\Adnan\LibrarySystem\Library.Model\obj\Release\net8.0\Library.Model.pdb
+C:\Users\Abdul\source\repos\Adnan\LibrarySystem\Library.Model\obj\Release\net8.0\ref\Library.Model.dll

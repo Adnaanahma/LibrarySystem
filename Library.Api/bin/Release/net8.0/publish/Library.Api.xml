@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Library.Api</name>
+    </assembly>
+    <members>
+        <member name="M:Library.Api.Controllers.BookController.GetBooks(System.Int32,System.Int32)">
+            <summary>
+            Retrieves a paginated list of books.
+            </summary>
+            <param name="pageNumber">The page number (default is 1).</param>
+            <param name="pageSize">The size of the page (default is 10).</param>
+            <returns>A list of books.</returns>
+        </member>
+        <member name="M:Library.Api.Controllers.BookController.GetBook(System.Int32)">
+            <summary>
+            Retrieves details of a specific book.
+            </summary>
+            <param name="id">The ID of the book.</param>
+            <returns>The book details.</returns>
+        </member>
+        <member name="M:Library.Api.Controllers.BookController.AddBook(Library.Model.ViewModel.Book)">
+            <summary>
+            Adds a new book to the library collection.
+            </summary>
+            <param name="newBook">The new book to add.</param>
+            <returns>The added book.</returns>
+        </member>
+        <member name="M:Library.Api.Controllers.BookController.UpdateBook(System.Int32,Library.Model.ViewModel.Book)">
+            <summary>
+            Updates details of an existing book.
+            </summary>
+            <param name="id">The ID of the book to update.</param>
+            <param name="updatedBook">The updated book details.</param>
+            <returns>No content.</returns>
+        </member>
+        <member name="M:Library.Api.Controllers.BookController.DeleteBook(System.Int32)">
+            <summary>
+            Deletes a book from the library system.
+            </summary>
+            <param name="id">The ID of the book to delete.</param>
+            <returns>No content.</returns>
+        </member>
+    </members>
+</doc>
