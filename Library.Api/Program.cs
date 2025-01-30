@@ -36,11 +36,6 @@ public class Program
             c.IncludeXmlComments(xmlPath);
         });
 
-        builder.WebHost.ConfigureKestrel(options =>
-        {
-            options.ListenAnyIP(8080); // Configure to use port 8080
-        });
-
 
         var app = builder.Build();
 
