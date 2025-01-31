@@ -16,7 +16,7 @@ public class Program
         // Add services to the container.
 
         builder.Services.AddControllers();
-        builder.Services.AddSingleton<IBookService, BookService>();
+        builder.Services.AddScoped<IBookService, BookService>();
         // add memory cahe for rate limiting
         builder.Services.AddMemoryCache();
         // configure rate limiting options
@@ -40,7 +40,7 @@ public class Program
         var app = builder.Build();
 
         // Configure the HTTP request pipeline.
-        if (app.Environment.IsDevelopment())
+        if (app.Environment.IsDevelopment() || app.Environment.IsProduction())
         {
             app.UseSwagger();
             app.UseSwaggerUI();
